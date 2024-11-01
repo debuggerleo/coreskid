@@ -28,7 +28,7 @@
 </p>
 
 <p align = "center">
-    <a href = "contactme@jupiverse.tech"><b>Email & </b></a>
+    <a href = "e137x@proton.me"><b>Email & </b></a>
     <a href = "https://discord.com/invite/jsk"><b>Discord  </b></a>
    
 </p>
