@@ -14,21 +14,21 @@
 </p>
 
 <p align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=e137x&label=Profile%20views&color=0e75b6&style=flat"/>
+    <img src = "https://komarev.com/ghpvc/?username=poloduvet&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 
 <p align = "center">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=e137x&include_all_commits=true&count_private=true&theme=tokyonight"/>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e137x&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=poloduvet&include_all_commits=true&count_private=true&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poloduvet&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=e137x"/>
+    <img src = "https://github-profile-trophy.vercel.app/?username=poloduvet"/>
 </p>
 
 <p align = "center">
-    <a href = "e137x@proton.me"><b>Email & </b></a>
+    <a href = "poloduvet@proton.me"><b>Email & </b></a>
     <a href = "https://discord.com/invite/jsk"><b>Discord  </b></a>
    
 </p>
