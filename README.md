@@ -19,16 +19,16 @@
 
 
 <p align = "center">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=coreskid&show_icons=true&theme=tokyonight"/>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreskid&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=debuggerleo&show_icons=true&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggerleo&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=coreskid"/>
+    <img src = "https://github-profile-trophy.vercel.app/?username=debuggerleo"/>
 </p>
 
 <p align = "center">
-    <a href = "coreskid@proton.me"><b>Email & </b></a>
+    <a href = "debuggerleo@proton.me"><b>Email & </b></a>
     <a href = "https://discord.com/invite/jsk"><b>Discord  </b></a>
    
 </p>
